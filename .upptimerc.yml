@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: GST
     url: https://www.gst.gov.in
+     headers: 
+       - "User-Agent: test uptime"
   - name: GST login
     url: https://services.gst.gov.in/services/login
+    headers: 
+       - "User-Agent: test uptime"
   - name: youtube.com
     url: https://youtube.com
   - name: Test Broken Site
