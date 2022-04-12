@@ -5,8 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: GST
     url: https://www.gst.gov.in
-     headers: 
-       - "User-Agent: test uptime"
+    headers:
+
+      - "User-Agent: Jayants uptime"
   - name: GST login
     url: https://services.gst.gov.in/services/login
     headers: 
